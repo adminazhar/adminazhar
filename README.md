@@ -55,11 +55,3 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=adminazhar&show_icons=true&theme=gotham" alt="adminazhar" />
-
-
-
-
