@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack Web Developer 🚀 from India. I'm Entrepreneur 💡 @ [Nixby!](https://www.nixbymedia.com/), Freelancer 💻 @ [UpWork!](https://www.upwork.com/o/profiles/users/~01cc56023d6e2591da/), a Former Research Intern 👓 @ IIT Kanpur [https://iitk.ac.in/smartcity/!](https://iitk.ac.in/smartcity/).
+Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack Web Developer 🚀 from India. I'm Entrepreneur 💡 @ [Nixby!](https://www.nixbymedia.com/), Freelancer 💻 @ [UpWork!](https://www.upwork.com/o/profiles/users/~01cc56023d6e2591da/), a Former Research Intern 👓 @ [IIT Kanpur!](https://iitk.ac.in/smartcity/).
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
