@@ -38,15 +38,9 @@ Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📊 **My GitHub Stats:**
 <!--START_SECTION:waka-->
-```text
-C++          1 hr 45 mins    ████████░░░░░░░░░░░░░░░░░   31.53 % 
-TeX          1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-HTML         43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-JSON         41 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-JavaScript   32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-```
+[![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=adminazhar)](https://github.com/adminazhar)
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
