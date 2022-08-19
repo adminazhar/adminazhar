@@ -33,7 +33,7 @@ Hi, This is Gotham Coding Official Account.
 
 📊 **My GitHub Stats:**
 <!--START_SECTION:waka-->
-[![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=gothamcoding)](https://github.com/gothamcoding)
+[![Gotham Coding's github stats](https://github-readme-stats.vercel.app/api?username=gothamcoding)](https://github.com/gothamcoding)
 <!--END_SECTION:waka-->
 
 🚧 **My Todoist Stats:**
