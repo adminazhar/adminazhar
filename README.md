@@ -3,28 +3,23 @@
 <a href="https://www.linkedin.com/in/azhark/">
   <img align="left" alt="Azhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://instagram.com/adminazhar">
-  <img align="left" alt="Azhar Khan | Twitter" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/91a804aef38847ce0d70cc4f796da8931b2f1f19/images/svg/instagram.svg" />
-</a>
 <a href="https://www.youtube.com/gothamcoding">
   <img align="left" alt="Gotham Coding's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=adminazhar.adminazhar)
+![](https://visitor-badge.glitch.me/badge?page_id=gothamcoding.gothamcoding)
 
 <br />
 
-Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack Web Developer 🚀 from India. Currently working as a Senior Software Engineer at Benzinga. I'm Entrepreneur 💡 @ [Nixby!](https://www.nixbymedia.com/), Freelancer 💻 @ [UpWork!](https://www.upwork.com/o/profiles/users/~01cc56023d6e2591da/), a Former Research Intern 👓 @ [IIT Kanpur!](https://iitk.ac.in/smartcity/).
+Hi, This is Gotham Coding Official Account.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently building their new Editorial Software from scratch which will be used by thousands of writers/editors. :wink:;
-- 🌱 I’m currently learning DSA; 
+- 👨🏽‍💻 I’m currently working on Youtube Channel. :wink:;
+- 🌱 I’m currently learning too many things; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@adminazhar](https://instagram.com/adminazhar);
-- 📝[Resume](https://docs.google.com/document/d/12Emm5tnjLu2F8p1svPlYVFiIasBMlDs5YaZp4Gc_q7Y/edit?usp=sharing)
 
 **Languages and Tools:**  
 
@@ -41,12 +36,8 @@ Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack 
 
 📊 **My GitHub Stats:**
 <!--START_SECTION:waka-->
-[![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=adminazhar)](https://github.com/adminazhar)
+[![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=gothamcoding)](https://github.com/gothamcoding)
 <!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/adminazhar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
