@@ -41,7 +41,7 @@ Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack 
 
 📊 **My GitHub Stats:**
 <!--START_SECTION:waka-->
-[![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=adminazhar)](https://github.com/adminazhar)
+[![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=adminazhar&count_private=true&include_all_commits=true&show_icons=true&theme=react&show_owner=true)](https://github.com/adminazhar)
 <!--END_SECTION:waka-->
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
