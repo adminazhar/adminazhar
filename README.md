@@ -9,7 +9,7 @@
 <a href="https://www.youtube.com/gothamcoding">
   <img align="left" alt="Gotham Coding's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
-<a href="[https://twitter.com/officialazhark](https://twitter.com/officialazhark)">
+<a href="https://twitter.com/officialazhark">
   <img align="left" alt="Azhar Khan Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
