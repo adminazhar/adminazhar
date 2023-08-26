@@ -10,7 +10,7 @@
   <img align="left" alt="Gotham Coding's YouTube" width="22px" src="https://camo.githubusercontent.com/49016b3e10a42311ae32711f44e5062f8785491e90314f276446f4010e538b7a/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f796f7574756265" />
 </a>
 <a href="https://twitter.com/officialazhark">
-  <img align="left" alt="Azhar Khan Twitter" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/f0c25837a3fe0e03783b939559e088abcbfb3c4b/svgs/brands/x-twitter.svg" />
+  <img align="left" alt="Azhar Khan Twitter" width="22px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/f0c25837a3fe0e03783b939559e088abcbfb3c4b/svgs/brands/square-x-twitter.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=adminazhar.adminazhar)
