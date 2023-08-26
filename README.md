@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/azhark/">
-  <img align="left" alt="Azhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Azhar's LinkedIN" width="22px" src="https://camo.githubusercontent.com/00974afc84e6984c98cb5c971879e88b31387aa90f1f91795586266a48d2ed88/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
 </a>
 <a href="https://instagram.com/adminazhar">
   <img align="left" alt="Azhar Khan | Instagram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/91a804aef38847ce0d70cc4f796da8931b2f1f19/images/svg/instagram.svg" />
