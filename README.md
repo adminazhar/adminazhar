@@ -30,7 +30,7 @@ Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently building their new Editorial Software from scratch which will be used by thousands of writers/editors. :wink:;
-- 🌱 I’m currently learning Golang and HTMX; 
+- 🌱 I’m currently learning DSA With Python; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@adminazhar](https://instagram.com/adminazhar);
 - 📝[Resume](https://docs.google.com/document/d/12Emm5tnjLu2F8p1svPlYVFiIasBMlDs5YaZp4Gc_q7Y/edit?usp=sharing)
