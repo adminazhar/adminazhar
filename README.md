@@ -21,8 +21,8 @@
   
 Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack Web Developer 🚀 from India. Building websites since 2009.
 - Currently Working as a Senior Software Engineer at [Benzinga!](https://www.benzinga.com).
-- Building e-Commerce Brand - V1BE™
-- Founder of @ [Nixby Media Pvt Ltd!](https://www.nixby.in/abouot)
+- Building e-Commerce Brand - [V1BE™](https://www.v1be.in)
+- Founder of @ [Nixby Media Pvt Ltd!](https://www.nixby.in)
 - Written articles for MSN, Benzinga, Robinhood, Smartnews, Newsbreak and many more.(Search publisher name + my name on google)
 - Former Freelancer @ [UpWork!](https://www.upwork.com/o/profiles/users/~01cc56023d6e2591da/)
 - Former Research Intern @ [IIT Kanpur!](https://iitk.ac.in/smartcity/).
