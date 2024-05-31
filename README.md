@@ -20,7 +20,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack Web Developer 🚀 from India. Building websites since 2009.
-- Currently Working as a Senior Software Engineer at [Benzinga!](https://www.benzinga.com).
+- Currently Working as a Full Stack Software Engineer at [Benzinga!](https://www.benzinga.com).
 - Building e-Commerce Brand - [V1BE™](https://www.v1be.in)
 - Founder of @ [Nixby Media Pvt Ltd!](https://www.nixby.in)
 - Written articles for MSN, Benzinga, Robinhood, Smartnews, Newsbreak and many more.(Search publisher name + my name on google)
@@ -29,8 +29,8 @@ Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently building their new Editorial Software from scratch which will be used by thousands of writers/editors. :wink:;
-- 🌱 I’m currently learning DSA With Python; 
+- 👨🏽‍💻 I’m currently handling Editorial CMS, Contributor CMS and Licensing.
+- 🌱 I’m currently learning Django; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@adminazhar](https://instagram.com/adminazhar);
 - 📝[Resume](https://docs.google.com/document/d/12Emm5tnjLu2F8p1svPlYVFiIasBMlDs5YaZp4Gc_q7Y/edit?usp=sharing)
