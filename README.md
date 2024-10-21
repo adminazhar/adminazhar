@@ -19,7 +19,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack Web Developer 🚀 from India. Building websites since 2009.
+Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack Software Engineer 🚀 from India. Building websites since 2009.
 - Currently Working as a Full Stack Software Engineer at Accretive Capital LLC.
 - Founder of @ [Nixby Media Pvt Ltd!](https://www.nixby.in)
 - Written articles for MSN, Benzinga, Robinhood, Smartnews, Newsbreak and many more.(Search publisher name + my name on google)
