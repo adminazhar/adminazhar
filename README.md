@@ -20,8 +20,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack Web Developer 🚀 from India. Building websites since 2009.
-- Currently Working as a Full Stack Software Engineer at [Benzinga!](https://www.benzinga.com).
-- Building e-Commerce Brand - [V1BE™](https://www.v1be.in)
+- Currently Working as a Full Stack Software Engineer at Accretive Capital LLC.
 - Founder of @ [Nixby Media Pvt Ltd!](https://www.nixby.in)
 - Written articles for MSN, Benzinga, Robinhood, Smartnews, Newsbreak and many more.(Search publisher name + my name on google)
 - Former Freelancer @ [UpWork!](https://www.upwork.com/o/profiles/users/~01cc56023d6e2591da/)
@@ -33,7 +32,6 @@ Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack 
 - 🌱 I’m currently learning Django; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@adminazhar](https://instagram.com/adminazhar);
-- 📝[Resume](https://docs.google.com/document/d/12Emm5tnjLu2F8p1svPlYVFiIasBMlDs5YaZp4Gc_q7Y/edit?usp=sharing)
 - Checkout [HackerRank Solution](http://hackerrank.info)
 
 **Languages and Tools:**  
@@ -56,10 +54,6 @@ Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack 
 <!--START_SECTION:waka-->
 [![Azhar's github stats](https://github-readme-stats.vercel.app/api?username=adminazhar&count_private=true&include_all_commits=true&show_icons=true&theme=react&show_owner=true)](https://github.com/adminazhar)
 <!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/adminazhar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
