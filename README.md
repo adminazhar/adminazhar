@@ -29,7 +29,7 @@ Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently handling Editorial CMS, Contributor CMS and Licensing.
-- 🌱 I’m currently learning Django; 
+- 🌱 I’m currently learning Golang; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@adminazhar](https://instagram.com/adminazhar);
 - Checkout [HackerRank Solution](http://hackerrank.info)
