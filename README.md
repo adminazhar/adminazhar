@@ -21,6 +21,7 @@
   
 Hi, I'm [Azhar Khan!](https://azhark.com/), a passionate self-taught Full Stack Software Engineer 🚀 from India. Building websites since 2009.
 - Currently Working as a Full Stack Software Engineer at Accretive Capital LLC.
+- Found @ [Talentd](https://www.talentd.in) [Currently getting 150,000+ Page Views Per Month]
 - Founder of @ [Nixby Media Pvt Ltd!](https://www.nixby.in)
 - Written articles for MSN, Benzinga, Robinhood, Smartnews, Newsbreak and many more.(Search publisher name + my name on google)
 - Former Freelancer @ [UpWork!](https://www.upwork.com/o/profiles/users/~01cc56023d6e2591da/)
